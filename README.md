@@ -45,13 +45,13 @@ CTEs and date-based cohort logic are used to keep the analytical steps explicit 
 
 ### Activation Funnel
 
-![Activation Funnel](images/activation-funnel.png)
+![Activation Funnel](activation-funnel.png)
 
 The funnel tracks the customer journey from signup through trial and paid conversion, with supporting conversion metrics.
 
 ### Cohort Retention
 
-![Cohort Retention](images/cohort-retention.png)
+![Cohort Retention](cohort-retention.png)
 
 The cohort view tracks retention by months since signup and highlights cohorts with meaningful retention declines.
 
